@@ -5,4 +5,4 @@
 
 Обучалка от github: http://try.github.com/
 
-https://raw.githubusercontent.com/imischenko/hse_mc/master/book/index.html
+https://htmlpreview.github.io/?https://github.com/imischenko/hse_mc/blob/master/book/index.html
